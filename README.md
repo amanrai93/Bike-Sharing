@@ -1,4 +1,4 @@
-# Bike-Sharing-Assignment
+# Bike-Sharing
 
 ## Covid-19 impacted many businesses and bike-sharing was one of them. I help them identify and assess revenue drivers of bike-sharing post pandemic!
 
